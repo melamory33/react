@@ -21,7 +21,7 @@ export default class Homework extends Component {
     // const { imgId, imgB } = this.state;
     // const imgId = this.state.imgId;
     return (
-      <div className="hell">
+      <div className="helloworld">
         <button onClick={e => this.setState({ button: 1 })}>Все фото</button>
         <button onClick={e => this.setState({ button: 2 })}>Текущее</button>
         <button onClick={e => this.setState({ button: 3 })}>По три</button>
