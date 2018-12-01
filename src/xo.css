@@ -1,0 +1,21 @@
+.xoxoxo {
+  display: flex;
+  justify-content: center;
+  width: 300px;
+  flex-direction: column;
+  height: 300px;
+}
+.row {
+  display: flex;
+  justify-content: center;
+  height: 33%;
+}
+.elem {
+  display: flex;
+  border: 2px solid blue;
+  border-color: black;
+  width: 33%;
+  justify-content: center;
+  align-items: center;
+  font-size: 450%;
+}
