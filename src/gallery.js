@@ -15,7 +15,7 @@ export default class Gallery extends Component {
 	}
 	render() {
 		return (
-			<div className="wt">
+			<div className="wtf">
 				<button
 					onClick={e =>
 						this.setState({
